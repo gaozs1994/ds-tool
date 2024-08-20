@@ -1,6 +1,21 @@
-# dev-app
+# 简介
 
-An Electron application with Vue and TypeScript
+工具箱-桌面应用
+
+# 技术栈
+
+Electron + Vite + Vue
+
+# 应用功能
+
+## 已实现
+
+## 开发中
+
+## 待办
+
+- [] :tada: 自定义股票
+- [x] 自定义股票
 
 ## Recommended IDE Setup
 
