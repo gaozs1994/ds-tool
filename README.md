@@ -14,7 +14,7 @@ Electron + Vite + Vue
 
 ## 待办
 
-- [] 自定义股票
+- [ ] 自定义股票
 - [x] 自定义股票
 
 ## Recommended IDE Setup
